@@ -1,0 +1,5446 @@
+[
+ {
+  "id": "verb-b25974fb8efd13e9",
+  "fr": "aller",
+  "en": "to go",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to go"
+  ],
+  "aliases": [
+   "aller",
+   "ALLER"
+  ],
+  "examples": [
+   {
+    "fr": "Tu dois y aller même si tu ne le veux pas.",
+    "en": "You have to go even if you don't want to.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 73
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 6
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 5
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 52
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 105
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 153
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 187
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 236
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 260
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 264
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 272
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 322
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 494
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 495
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 496
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 497
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 498
+   }
+  ],
+  "conjugation_refs": [
+   "aller:voix_active_etre"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ale",
+  "respelling": "ah-LAY",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-4b8532b23f82167b",
+  "fr": "apprendre",
+  "en": "to learn",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to learn"
+  ],
+  "aliases": [
+   "apprendre",
+   "APPRENDRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je suis venu ici pour apprendre.",
+    "en": "I came here to learn.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Il y a encore beaucoup à apprendre.",
+    "en": "There is still much to learn.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Nous devons apprendre à nous faire confiance.",
+    "en": "We have to learn to trust ourselves.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Tu as encore beaucoup à apprendre sur les femmes.",
+    "en": "You still have a lot to learn about women.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1304
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 59
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 20
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 67
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 120
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 154
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 211
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 297
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 340
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 363
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 364
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 429
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 569
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 570
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 571
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 572
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 573
+   }
+  ],
+  "conjugation_refs": [
+   "apprendre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "apʁɑ̃dʁ",
+  "respelling": "ah-PRAHNDR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-13b8f4751e28fbdc",
+  "fr": "asseoir",
+  "en": "to sit down; to seat",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to sit down",
+   "to seat"
+  ],
+  "aliases": [
+   "asseoir",
+   "ASSEOIR"
+  ],
+  "examples": [
+   {
+    "fr": "Trois personnes peuvent facilement s'asseoir dans ce canapé.",
+    "en": "This sofa can seat three people easily.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 31012,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "786459",
+      "author": "melospawn",
+      "url": "https://tatoeba.org/en/sentences/show/786459"
+     },
+     "eng": {
+      "id": "60928",
+      "author": "CM",
+      "url": "https://tatoeba.org/en/sentences/show/60928"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1206
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 102
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 31
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 78
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 139
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 163
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 230
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 283
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 395
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 433
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 434
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 466
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 624
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 625
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 626
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 627
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 628
+   }
+  ],
+  "conjugation_refs": [
+   "asseoir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "aswaʁ",
+  "respelling": "ah-SWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-fcf63b5aa7805a49",
+  "fr": "avoir",
+  "en": "to have",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to have"
+  ],
+  "aliases": [
+   "avoir",
+   "AVOIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je sais ce que vous avez fait.",
+    "en": "I know what you have done.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 400
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 3
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 4
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 51
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 99
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 144
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 198
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 234
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 241
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 249
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 253
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 257
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 489
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 490
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 491
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 492
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 493
+   }
+  ],
+  "conjugation_refs": [
+   "avoir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "avwaʁ",
+  "respelling": "ah-VWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-b9bcb29c801bada9",
+  "fr": "battre",
+  "en": "to beat",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to beat"
+  ],
+  "aliases": [
+   "battre",
+   "BATTRE"
+  ],
+  "examples": [
+   {
+    "fr": "Incorporer le sucre et les œufs. Bien battre.",
+    "en": "Add the sugar and eggs, and beat well.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 208703,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "3559738",
+      "author": "Lebensfreude",
+      "url": "https://tatoeba.org/en/sentences/show/3559738"
+     },
+     "eng": {
+      "id": "3559595",
+      "author": "Lebensfreude",
+      "url": "https://tatoeba.org/en/sentences/show/3559595"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1754
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 63
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 22
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 69
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 115
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 175
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 208
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 288
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 339
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 353
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 354
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 443
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 579
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 580
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 581
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 582
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 583
+   }
+  ],
+  "conjugation_refs": [
+   "battre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "batʁ",
+  "respelling": "BAHTR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-293562e3d393ffaa",
+  "fr": "boire",
+  "en": "to drink",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to drink"
+  ],
+  "aliases": [
+   "boire",
+   "BOIRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je veux quelque chose à boire.",
+    "en": "I want something to drink.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Est-ce que tu veux boire ?",
+    "en": "Do you want to drink?",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1409
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 48
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 16
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 63
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 121
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 167
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 201
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 275
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 365
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 366
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 374
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 441
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 549
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 550
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 551
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 552
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 553
+   }
+  ],
+  "conjugation_refs": [
+   "boire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "bwaʁ",
+  "respelling": "BWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-ee6c1cc3fa1f4e99",
+  "fr": "conduire",
+  "en": "to drive; to drive, to conduct (a vehicle, to etc.); to lead (guide to something)",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to drive",
+   "to drive, to conduct (a vehicle, to etc.); to lead (guide to something)"
+  ],
+  "aliases": [
+   "Conduire",
+   "conduire",
+   "CONDUIRE"
+  ],
+  "examples": [
+   {
+    "fr": "La prochaine fois ce sera à moi de conduire.",
+    "en": "Next time it will be up to me to drive.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 565
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 97
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 32
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 79
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 122
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 171
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 225
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 356
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 373
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 401
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 402
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 458
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 629
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 630
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 631
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 632
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 633
+   }
+  ],
+  "conjugation_refs": [
+   "conduire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "kɔ̃dɥiʁ",
+  "respelling": "kohn-DWEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-27bf9fb4c21c9182",
+  "fr": "construire",
+  "en": "to build; to build, to construct",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to build",
+   "to build, to construct"
+  ],
+  "aliases": [
+   "construire",
+   "CONSTRUIRE"
+  ],
+  "examples": [
+   {
+    "fr": "Il va construire une maison pour ses parents.",
+    "en": "He's going to build his parents a house.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 285561,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "12572138",
+      "author": "LdjuherTaqvaylit",
+      "url": "https://tatoeba.org/en/sentences/show/12572138"
+     },
+     "eng": {
+      "id": "13062445",
+      "author": "rul",
+      "url": "https://tatoeba.org/en/sentences/show/13062445"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1651
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 190
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 45
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 92
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 131
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 178
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 219
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 321
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 400
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 411
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 412
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 462
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 694
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 695
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 696
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 697
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 698
+   }
+  ],
+  "conjugation_refs": [
+   "construire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "kɔ̃stʁɥiʁ",
+  "respelling": "kohns-TRWEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-f3f3bfcd3d45c5ac",
+  "fr": "croire",
+  "en": "to suppose; to believe (in something), to think (that something is the case), to suppose (that something is true)",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to suppose",
+   "to believe (in something), to think (that something is the case), to suppose (that something is true)"
+  ],
+  "aliases": [
+   "croire",
+   "CROIRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je sais que tu me crois.",
+    "en": "I know you believe me.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Je ne crois pas avoir dit ça.",
+    "en": "I don't think I said that.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1594
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 24
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 15
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 62
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 109
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 157
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 203
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 273
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 325
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 326
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 403
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 452
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 544
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 545
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 546
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 547
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 548
+   }
+  ],
+  "conjugation_refs": [
+   "croire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "kʁwaʁ",
+  "respelling": "KRWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-2d027cac1d0b79b1",
+  "fr": "devenir",
+  "en": "to become",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to become"
+  ],
+  "aliases": [
+   "Devenir",
+   "devenir",
+   "DEVENIR"
+  ],
+  "examples": [
+   {
+    "fr": "Si tu manges trop, tu vas devenir gros.",
+    "en": "If you eat too much, you'll become fat.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 1380,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "1288851",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/1288851"
+     },
+     "eng": {
+      "id": "2396",
+      "author": "shortiiboy",
+      "url": "https://tatoeba.org/en/sentences/show/2396"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 872
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 50
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 18
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 65
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 124
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 161
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 213
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 303
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 324
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 357
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 358
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 413
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 559
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 560
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 561
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 562
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 563
+   }
+  ],
+  "conjugation_refs": [
+   "devenir:voix_active_etre"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "dəvəniʁ",
+  "respelling": "duh-vuh-NEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-e313e381220b562a",
+  "fr": "devoir",
+  "en": "must",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "must"
+  ],
+  "aliases": [
+   "Devoir",
+   "devoir",
+   "DEVOIR"
+  ],
+  "examples": [
+   {
+    "fr": "J'ai peur de devoir partir maintenant.",
+    "en": "I am afraid I must be going now.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 9102,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "12708",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/12708"
+     },
+     "eng": {
+      "id": "39354",
+      "author": "CK",
+      "url": "https://tatoeba.org/en/sentences/show/39354"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 544
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 22
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 19
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 66
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 94
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 146
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 188
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 238
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 246
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 268
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 270
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 294
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 564
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 565
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 566
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 567
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 568
+   }
+  ],
+  "conjugation_refs": [
+   "devoir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "dəvwaʁ",
+  "respelling": "duh-VWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-49025f2f8f541495",
+  "fr": "dire",
+  "en": "to say; to say, to tell, to speak",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to say",
+   "to say, to tell, to speak"
+  ],
+  "aliases": [
+   "dire",
+   "DIRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je ne peux rien dire pour le moment.",
+    "en": "I can not say anything for the moment.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 4579,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "8534",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/8534"
+     },
+     "eng": {
+      "id": "241739",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/241739"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1189
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 2
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 2
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 49
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 98
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 142
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 191
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 243
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 286
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 315
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 316
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 390
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 479
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 480
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 481
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 482
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 483
+   }
+  ],
+  "conjugation_refs": [
+   "dire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "diʁ",
+  "respelling": "DEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-65710b231605b708",
+  "fr": "disparaître",
+  "en": "to disappear; to disappear, to vanish",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to disappear",
+   "to disappear, to vanish"
+  ],
+  "aliases": [
+   "disparaître",
+   "DISPARAÎTRE"
+  ],
+  "examples": [
+   {
+    "fr": "Tu dois disparaître.",
+    "en": "You have to disappear.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 4100
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 191
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 46
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 93
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 134
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 158
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 233
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 367
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 384
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 424
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 425
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 463
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 699
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 700
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 701
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 702
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 703
+   }
+  ],
+  "conjugation_refs": [
+   "disparaître:voix_active_avoir",
+   "disparaître:voix_active_etre"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "B2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "dispaʁɛtʁ",
+  "respelling": "dees-pah-REHTR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-931bd8c8cce91233",
+  "fr": "dormir",
+  "en": "to sleep",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to sleep"
+  ],
+  "aliases": [
+   "dormir",
+   "DORMIR"
+  ],
+  "examples": [
+   {
+    "fr": "Ce lit est trop dur pour y dormir.",
+    "en": "This bed is too hard to sleep on.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 82520,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "1358035",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/1358035"
+     },
+     "eng": {
+      "id": "503821",
+      "author": "CK",
+      "url": "https://tatoeba.org/en/sentences/show/503821"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1175
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 52
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 17
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 64
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 112
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 174
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 216
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 314
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 347
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 348
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 359
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 420
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 554
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 555
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 556
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 557
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 558
+   }
+  ],
+  "conjugation_refs": [
+   "dormir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "dɔʁmiʁ",
+  "respelling": "dawr-MEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-7f802a7788c545c6",
+  "fr": "faire",
+  "en": "to do / make; to do, to make",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to do / make",
+   "to do, to make"
+  ],
+  "aliases": [
+   "faire",
+   "FAIRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je veux faire quelques courses dans le coin.",
+    "en": "I want to do some shopping around here.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 3237,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "7301",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/7301"
+     },
+     "eng": {
+      "id": "253492",
+      "author": "CM",
+      "url": "https://tatoeba.org/en/sentences/show/253492"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 155
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 0
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 1
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 48
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 97
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 141
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 190
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 239
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 252
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 274
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 280
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 292
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 474
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 475
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 476
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 477
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 478
+   }
+  ],
+  "conjugation_refs": [
+   "faire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "fɛʁ",
+  "respelling": "FEHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-6251cedf283dd10c",
+  "fr": "foutre",
+  "en": "to put; to do (very informal/vulgar)",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to put; to do (very informal/vulgar)"
+  ],
+  "aliases": [
+   "FOUTRE"
+  ],
+  "examples": [
+   {
+    "fr": "Qu'est-ce que tu fous ici à cette heure-ci ?",
+    "en": "What the hell are you doing here at this hour?",
+    "kind": "original",
+    "source": "Original practice example (AI-assisted)",
+    "level_target": null,
+    "usage_note": "Foutre is very informal and often vulgar."
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 23
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 70
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 138
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 170
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 210
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 296
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 438
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 453
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 464
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 467
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 584
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 585
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 586
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 587
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 588
+   }
+  ],
+  "conjugation_refs": [
+   "foutre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [],
+  "meaning_reference": "https://www.larousse.fr/dictionnaires/francais-anglais/foutre/34866",
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "futʁ",
+  "respelling": "FOOTR",
+  "respelling_source": "espeak-ng/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-0727929f03c8d964",
+  "fr": "fuir",
+  "en": "to flee; to flee, to escape, to run away",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to flee",
+   "to flee, to escape, to run away"
+  ],
+  "aliases": [
+   "fuir",
+   "FUIR"
+  ],
+  "examples": [
+   {
+    "fr": "Sami s'apprêtait à fuir lorsque la police est arrivée.",
+    "en": "Sami was preparing to flee when the police arrived.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 249814,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "6715644",
+      "author": "GB3",
+      "url": "https://tatoeba.org/en/sentences/show/6715644"
+     },
+     "eng": {
+      "id": "6714097",
+      "author": "OsoHombre",
+      "url": "https://tatoeba.org/en/sentences/show/6714097"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 2106
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 167
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 41
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 88
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 126
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 182
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 209
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 293
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 397
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 398
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 414
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 450
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 674
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 675
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 676
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 677
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 678
+   }
+  ],
+  "conjugation_refs": [
+   "fuir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "fɥiʁ",
+  "respelling": "FWEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-46bfd6bd12b8b067",
+  "fr": "joindre",
+  "en": "to reach; to join, to attach, to combine",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to reach",
+   "to join, to attach, to combine"
+  ],
+  "aliases": [
+   "joindre",
+   "JOINDRE"
+  ],
+  "examples": [
+   {
+    "fr": "Tu peux te joindre.",
+    "en": "You can join.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1552
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 161
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 39
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 86
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 137
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 183
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 231
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 368
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 418
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 432
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 435
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 456
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 664
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 665
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 666
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 667
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 668
+   }
+  ],
+  "conjugation_refs": [
+   "joindre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ʒwɛ̃dʁ",
+  "respelling": "ZHWANDR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-47af944d945116a3",
+  "fr": "lire",
+  "en": "read; to read",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "read",
+   "to read"
+  ],
+  "aliases": [
+   "lisez",
+   "lire",
+   "LIRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je veux quelque chose à lire.",
+    "en": "I want something to read.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Je veux un livre à lire dans le train.",
+    "en": "I want a book to read on the train.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 15
+   },
+   {
+    "file": "topic_vocab.json",
+    "index": 187
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 72
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 24
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 71
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 118
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 162
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 220
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 323
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 385
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 388
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 389
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 448
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 589
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 590
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 591
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 592
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 593
+   }
+  ],
+  "conjugation_refs": [
+   "lire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "liʁ",
+  "respelling": "LEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-65e15119a4766732",
+  "fr": "mentir",
+  "en": "to lie",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to lie"
+  ],
+  "aliases": [
+   "mentir",
+   "MENTIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je n'ai pas de raison de te mentir.",
+    "en": "I have no reason to lie to you.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 145606,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "1957633",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/1957633"
+     },
+     "eng": {
+      "id": "1956209",
+      "author": "Spamster",
+      "url": "https://tatoeba.org/en/sentences/show/1956209"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "anki_verb_sources.json",
+    "index": 130
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 40
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 87
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 129
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 164
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 222
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 334
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 369
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 370
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 437
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 457
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 669
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 670
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 671
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 672
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 673
+   }
+  ],
+  "conjugation_refs": [
+   "mentir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "mɑ̃tiʁ",
+  "respelling": "mahn-TEER",
+  "respelling_source": "espeak-ng/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-4658a34c5c5e8cc3",
+  "fr": "mettre",
+  "en": "to put / to wear; to put, to place",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to put / to wear",
+   "to put, to place"
+  ],
+  "aliases": [
+   "Mettre",
+   "mettre",
+   "METTRE"
+  ],
+  "examples": [
+   {
+    "fr": "Tu ferais mieux de mettre ton casque intégral.",
+    "en": "You had better put on your crash helmet.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 113169,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "2169005",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/2169005"
+     },
+     "eng": {
+      "id": "1217800",
+      "author": "PeterR",
+      "url": "https://tatoeba.org/en/sentences/show/1217800"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 716
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 19
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 11
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 58
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 108
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 150
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 199
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 259
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 295
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 337
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 338
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 415
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 524
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 525
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 526
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 527
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 528
+   }
+  ],
+  "conjugation_refs": [
+   "mettre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "mɛtʁ",
+  "respelling": "MEHTR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-e59ef83dbd780f9c",
+  "fr": "mourir",
+  "en": "to die",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to die"
+  ],
+  "aliases": [
+   "mourir",
+   "MOURIR"
+  ],
+  "examples": [
+   {
+    "fr": "L'absence de pluie a fait mourir les plantes.",
+    "en": "Absence of rain caused the plants to die.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 18293,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "496781",
+      "author": "Goofy",
+      "url": "https://tatoeba.org/en/sentences/show/496781"
+     },
+     "eng": {
+      "id": "26911",
+      "author": "CM",
+      "url": "https://tatoeba.org/en/sentences/show/26911"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1446
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 12
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 59
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 106
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 145
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 215
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 282
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 306
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 371
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 381
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 382
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 529
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 530
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 531
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 532
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 533
+   }
+  ],
+  "conjugation_refs": [
+   "mourir:voix_active_etre"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "muʁiʁ",
+  "respelling": "moo-REER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-4d228e1c541d9fea",
+  "fr": "obtenir",
+  "en": "to get, to obtain",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to get, to obtain"
+  ],
+  "aliases": [
+   "obtenir",
+   "OBTENIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je ferais n'importe quoi pour obtenir un emploi.",
+    "en": "I would do anything to get a job.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 127897,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "1664225",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/1664225"
+     },
+     "eng": {
+      "id": "1655522",
+      "author": "Spamster",
+      "url": "https://tatoeba.org/en/sentences/show/1655522"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "anki_verb_sources.json",
+    "index": 103
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 36
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 83
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 135
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 176
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 214
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 304
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 336
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 383
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 394
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 431
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 649
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 650
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 651
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 652
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 653
+   }
+  ],
+  "conjugation_refs": [
+   "obtenir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ɔbtniʁ",
+  "respelling": "awbt-NEER",
+  "respelling_source": "espeak-ng/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-9935b4c6fdd3aeaa",
+  "fr": "ouvrir",
+  "en": "to open",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to open"
+  ],
+  "aliases": [
+   "Ouvrir",
+   "ouvrir",
+   "OUVRIR"
+  ],
+  "examples": [
+   {
+    "fr": "Il n'a pas été capable d'ouvrir la boîte.",
+    "en": "He was not able to open the box.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 40136,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "131087",
+      "author": "Aiji",
+      "url": "https://tatoeba.org/en/sentences/show/131087"
+     },
+     "eng": {
+      "id": "291227",
+      "author": "CH",
+      "url": "https://tatoeba.org/en/sentences/show/291227"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 663
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 83
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 28
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 75
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 123
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 165
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 206
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 284
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 343
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 404
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 405
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 447
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 609
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 610
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 611
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 612
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 613
+   }
+  ],
+  "conjugation_refs": [
+   "ouvrir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "uvʁiʁ",
+  "respelling": "oo-VREER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-bca0201624d7aed7",
+  "fr": "partir",
+  "en": "to leave; to go away, to leave, to depart",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to leave",
+   "to go away, to leave, to depart"
+  ],
+  "aliases": [
+   "partir",
+   "PARTIR"
+  ],
+  "examples": [
+   {
+    "fr": "Il est temps de partir.",
+    "en": "It is time to leave.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Tu peux partir comme tu veux.",
+    "en": "You can leave as you wish.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1372
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 12
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 8
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 55
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 103
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 151
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 192
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 258
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 289
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 305
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 313
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 387
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 509
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 510
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 511
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 512
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 513
+   }
+  ],
+  "conjugation_refs": [
+   "partir:voix_active_etre"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "paʁtiʁ",
+  "respelling": "pahr-TEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-0cf550396ac53225",
+  "fr": "permettre",
+  "en": "to allow, to enable, to permit",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to allow, to enable, to permit"
+  ],
+  "aliases": [
+   "permettre",
+   "PERMETTRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je refuse de le permettre.",
+    "en": "I refuse to allow it.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Je ne peux pas te permettre de faire ça.",
+    "en": "I can't allow you to do this.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Elle ne voulait pas me permettre de lire la lettre.",
+    "en": "She did not want to allow me to read the letter.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "anki_verb_sources.json",
+    "index": 174
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 42
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 89
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 119
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 169
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 226
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 360
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 399
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 445
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 446
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 460
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 679
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 680
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 681
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 682
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 683
+   }
+  ],
+  "conjugation_refs": [
+   "permettre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "pɛʁmɛtʁ",
+  "respelling": "pehr-MEHTR",
+  "respelling_source": "espeak-ng/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-c6c84e31dfeb2de8",
+  "fr": "pouvoir",
+  "en": "can; to be able to do something; can",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "can",
+   "to be able to do something; can"
+  ],
+  "aliases": [
+   "Pouvoir",
+   "pouvoir",
+   "POUVOIR"
+  ],
+  "examples": [
+   {
+    "fr": "Il se vante de pouvoir parler six langues.",
+    "en": "He boasts that he can speak six languages.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 42595,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "133535",
+      "author": "fucongcong",
+      "url": "https://tatoeba.org/en/sentences/show/133535"
+     },
+     "eng": {
+      "id": "288622",
+      "author": "CK",
+      "url": "https://tatoeba.org/en/sentences/show/288622"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 543
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 21
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 13
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 60
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 116
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 148
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 229
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 237
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 247
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 256
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 267
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 269
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 534
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 535
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 536
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 537
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 538
+   }
+  ],
+  "conjugation_refs": [
+   "pouvoir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "puvwaʁ",
+  "respelling": "poo-VWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-319814994806e48b",
+  "fr": "prendre",
+  "en": "to take; to take, to catch",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to take",
+   "to take, to catch"
+  ],
+  "aliases": [
+   "prendre",
+   "PRENDRE"
+  ],
+  "examples": [
+   {
+    "fr": "Tu peux prendre ce que tu veux.",
+    "en": "You can take whatever you want.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 117
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 8
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 6
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 53
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 107
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 147
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 194
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 251
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 276
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 307
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 308
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 372
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 499
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 500
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 501
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 502
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 503
+   }
+  ],
+  "conjugation_refs": [
+   "prendre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "pʁɑ̃dʁ",
+  "respelling": "PRAHNDR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-87e5c44fec2ea1e7",
+  "fr": "recevoir",
+  "en": "to receive",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to receive"
+  ],
+  "aliases": [
+   "Recevoir",
+   "recevoir",
+   "RECEVOIR"
+  ],
+  "examples": [
+   {
+    "fr": "Il est mieux de donner que de recevoir.",
+    "en": "It is better to give than to receive.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 632
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 153
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 37
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 84
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 130
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 156
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 207
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 285
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 341
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 375
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 378
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 455
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 654
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 655
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 656
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 657
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 658
+   }
+  ],
+  "conjugation_refs": [
+   "recevoir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ʁəsəvwaʁ",
+  "respelling": "ruh-suh-VWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-730f19a83eb83314",
+  "fr": "remettre",
+  "en": "to postpone; to put back",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to postpone",
+   "to put back"
+  ],
+  "aliases": [
+   "remettre",
+   "REMETTRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je pense qu'il nous faut remettre la réunion.",
+    "en": "I think we need to postpone the meeting.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 180076,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "2412183",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/2412183"
+     },
+     "eng": {
+      "id": "2408447",
+      "author": "CK",
+      "url": "https://tatoeba.org/en/sentences/show/2408447"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 4246
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 109
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 35
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 82
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 133
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 180
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 212
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 301
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 355
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 409
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 410
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 442
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 644
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 645
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 646
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 647
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 648
+   }
+  ],
+  "conjugation_refs": [
+   "remettre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "B2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ʁəmɛtʁ",
+  "respelling": "ruh-MEHTR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-92d5ec0005294703",
+  "fr": "reprendre",
+  "en": "to resume, to take back, to restart",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to resume, to take back, to restart"
+  ],
+  "aliases": [
+   "reprendre",
+   "REPRENDRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je veux reprendre le cours de ma vie.",
+    "en": "I want to resume the course of my life.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "anki_verb_sources.json",
+    "index": 140
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 38
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 85
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 132
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 181
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 204
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 287
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 327
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 379
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 386
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 436
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 659
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 660
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 661
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 662
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 663
+   }
+  ],
+  "conjugation_refs": [
+   "reprendre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ʁəpʁɑ̃dʁ",
+  "respelling": "ruh-PRAHNDR",
+  "respelling_source": "espeak-ng/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-adb2ed2f9406f7e1",
+  "fr": "revenir",
+  "en": "to come back; to return, to come back",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to come back",
+   "to return, to come back"
+  ],
+  "aliases": [
+   "revenir",
+   "REVENIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je lui ai conseillé de revenir sans tarder.",
+    "en": "I advised him to come back at once.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 53722,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "1365142",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/1365142"
+     },
+     "eng": {
+      "id": "260293",
+      "author": "CK",
+      "url": "https://tatoeba.org/en/sentences/show/260293"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 2096
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 51
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 21
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 68
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 114
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 166
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 202
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 265
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 281
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 345
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 346
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 427
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 574
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 575
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 576
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 577
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 578
+   }
+  ],
+  "conjugation_refs": [
+   "revenir:voix_active_etre"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ʁəvəniʁ",
+  "respelling": "ruh-vuh-NEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-02179775e5ea6cf0",
+  "fr": "rire",
+  "en": "to laugh",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to laugh"
+  ],
+  "aliases": [
+   "rire",
+   "RIRE"
+  ],
+  "examples": [
+   {
+    "fr": "Ce n'est pas bien de rire des autres.",
+    "en": "It is not good to laugh at others.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 56433,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "1176382",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/1176382"
+     },
+     "eng": {
+      "id": "270143",
+      "author": "CM",
+      "url": "https://tatoeba.org/en/sentences/show/270143"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1116
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 27
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 74
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 125
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 184
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 223
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 342
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 377
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 416
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 417
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 449
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 604
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 605
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 606
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 607
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 608
+   }
+  ],
+  "conjugation_refs": [
+   "rire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ʁiʁ",
+  "respelling": "REER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-1bf55c5af1d62394",
+  "fr": "savoir",
+  "en": "to know",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to know"
+  ],
+  "aliases": [
+   "savoir",
+   "SAVOIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je veux savoir ce que je peux faire.",
+    "en": "I want to know what I can do.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1199
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 9
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 7
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 54
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 102
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 160
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 228
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 242
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 271
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 278
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 309
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 333
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 504
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 505
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 506
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 507
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 508
+   }
+  ],
+  "conjugation_refs": [
+   "savoir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "savwaʁ",
+  "respelling": "sah-VWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-b0fd68ff020eaed3",
+  "fr": "se souvenir",
+  "en": "to remember",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to remember"
+  ],
+  "aliases": [
+   "se souvenir",
+   "souvenir",
+   "SOUVENIR"
+  ],
+  "examples": [
+   {
+    "fr": "Personne ne veut se souvenir de mon pays.",
+    "en": "Nobody wants to remember my country.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 133133,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "3160613",
+      "author": "mervert1",
+      "url": "https://tatoeba.org/en/sentences/show/3160613"
+     },
+     "eng": {
+      "id": "1796861",
+      "author": "Amastan",
+      "url": "https://tatoeba.org/en/sentences/show/1796861"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 435
+   },
+   {
+    "file": "topic_vocab.json",
+    "index": 1200
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 34
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 81
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 136
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 185
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 227
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 352
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 361
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 439
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 440
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 461
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 639
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 640
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 641
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 642
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 643
+   }
+  ],
+  "conjugation_refs": [
+   "souvenir:voix_prono"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2",
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "sə suvniʁ",
+  "respelling": "SUH soov-NEER",
+  "respelling_source": "espeak-ng/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-3619d970f737f21d",
+  "fr": "sentir",
+  "en": "to feel; to feel, to sense; to smell",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to feel",
+   "to feel, to sense; to smell"
+  ],
+  "aliases": [
+   "Sentir",
+   "sentir",
+   "SENTIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je sais comment tu dois te sentir.",
+    "en": "I know how you should feel.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Je voulais vous faire sentir comme chez vous.",
+    "en": "I wanted to make you feel at home.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 917
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 82
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 33
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 80
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 127
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 173
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 217
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 317
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 349
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 350
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 391
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 426
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 634
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 635
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 636
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 637
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 638
+   }
+  ],
+  "conjugation_refs": [
+   "sentir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "sɑ̃tiʁ",
+  "respelling": "sahn-TEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-14ca9fc831810f77",
+  "fr": "servir",
+  "en": "to serve (a customer); to serve",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to serve (a customer)",
+   "to serve"
+  ],
+  "aliases": [
+   "servir",
+   "SERVIR"
+  ],
+  "examples": [
+   {
+    "fr": "Puis-je te servir un verre ?",
+    "en": "Can I serve you a drink?",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1674
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 90
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 29
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 76
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 117
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 172
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 218
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 318
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 351
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 407
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 408
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 444
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 614
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 615
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 616
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 617
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 618
+   }
+  ],
+  "conjugation_refs": [
+   "servir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "sɛʁviʁ",
+  "respelling": "sehr-VEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-9f97c70fe3c120a0",
+  "fr": "sortir",
+  "en": "to go out / to leave / to exit; to exit",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to go out / to leave / to exit",
+   "to exit"
+  ],
+  "aliases": [
+   "sortir",
+   "SORTIR"
+  ],
+  "examples": [
+   {
+    "fr": "Tu ne devrais pas sortir pendant quelques jours.",
+    "en": "You shouldn't go out for a few days.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 56677,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "446374",
+      "author": "gamma",
+      "url": "https://tatoeba.org/en/sentences/show/446374"
+     },
+     "eng": {
+      "id": "271053",
+      "author": "CK",
+      "url": "https://tatoeba.org/en/sentences/show/271053"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 154
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 15
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 10
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 57
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 104
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 159
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 197
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 255
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 298
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 319
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 320
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 406
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 519
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 520
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 521
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 522
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 523
+   }
+  ],
+  "conjugation_refs": [
+   "sortir:voix_active_avoir",
+   "sortir:voix_active_etre"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "sɔʁtiʁ",
+  "respelling": "sawr-TEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-6bfc9f55bf52117a",
+  "fr": "survivre",
+  "en": "to survive",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to survive"
+  ],
+  "aliases": [
+   "survivre",
+   "SURVIVRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je peux survivre à ça.",
+    "en": "I can survive this.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Je me suis toujours battu pour survivre.",
+    "en": "I have always fought to survive.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "C'est un miracle que tu aies pu survivre.",
+    "en": "It is a miracle that you were able to survive.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1708
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 179
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 44
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 91
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 110
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 179
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 224
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 335
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 344
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 422
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 423
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 459
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 689
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 690
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 691
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 692
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 693
+   }
+  ],
+  "conjugation_refs": [
+   "survivre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "syʁvivʁ",
+  "respelling": "sewr-VEEVR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-900da6e7d89e7f0d",
+  "fr": "taire",
+  "en": "to be quiet; to be quiet, to fall silent, to stop talking",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to be quiet",
+   "to be quiet, to fall silent, to stop talking"
+  ],
+  "aliases": [
+   "taire",
+   "TAIRE"
+  ],
+  "examples": [
+   {
+    "fr": "On devrait se taire dans une bibliothèque.",
+    "en": "You ought to be quiet in a library.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 56567,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "1218964",
+      "author": "eadbannon",
+      "url": "https://tatoeba.org/en/sentences/show/1218964"
+     },
+     "eng": {
+      "id": "270677",
+      "author": "CK",
+      "url": "https://tatoeba.org/en/sentences/show/270677"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 2345
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 198
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 43
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 90
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 140
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 186
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 232
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 421
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 428
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 451
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 465
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 468
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 684
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 685
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 686
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 687
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 688
+   }
+  ],
+  "conjugation_refs": [
+   "taire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "B1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "tɛʁ",
+  "respelling": "TEHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-992c73543de978a6",
+  "fr": "tenir",
+  "en": "to hold; to hold, to keep, to have",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to hold",
+   "to hold, to keep, to have"
+  ],
+  "aliases": [
+   "tenir",
+   "TENIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je suis fier de le tenir pour ami.",
+    "en": "I'm proud to have him as a friend.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 124926,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "1574762",
+      "author": "sacredceltic",
+      "url": "https://tatoeba.org/en/sentences/show/1574762"
+     },
+     "eng": {
+      "id": "1574271",
+      "author": "erikspen",
+      "url": "https://tatoeba.org/en/sentences/show/1574271"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 3502
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 73
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 25
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 72
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 111
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 177
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 205
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 279
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 302
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 331
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 332
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 430
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 594
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 595
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 596
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 597
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 598
+   }
+  ],
+  "conjugation_refs": [
+   "tenir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "B2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "təniʁ",
+  "respelling": "tuh-NEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-4e467f2a4278b3bf",
+  "fr": "venir",
+  "en": "to come",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to come"
+  ],
+  "aliases": [
+   "venir",
+   "VENIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je lui ai dit de venir nous voir.",
+    "en": "I told him to come see us.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1406
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 13
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 9
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 56
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 100
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 149
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 195
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 254
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 299
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 300
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 312
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 419
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 514
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 515
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 516
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 517
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 518
+   }
+  ],
+  "conjugation_refs": [
+   "venir:voix_active_etre"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "vəniʁ",
+  "respelling": "vuh-NEER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-7c1057cdbd776c3a",
+  "fr": "vivre",
+  "en": "to live; to live, to experience",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to live",
+   "to live, to experience"
+  ],
+  "aliases": [
+   "vivre",
+   "VIVRE"
+  ],
+  "examples": [
+   {
+    "fr": "Il ne s'attendait pas à vivre si longtemps.",
+    "en": "He did not expect to live so long.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 40183,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "131136",
+      "author": "Aiji",
+      "url": "https://tatoeba.org/en/sentences/show/131136"
+     },
+     "eng": {
+      "id": "291554",
+      "author": "CK",
+      "url": "https://tatoeba.org/en/sentences/show/291554"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 482
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 28
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 14
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 61
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 95
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 168
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 200
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 261
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 290
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 291
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 311
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 396
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 539
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 540
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 541
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 542
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 543
+   }
+  ],
+  "conjugation_refs": [
+   "vivre:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "vivʁ",
+  "respelling": "VEEVR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-0d55c38b93669650",
+  "fr": "voir",
+  "en": "to see; to see, to view",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to see",
+   "to see, to view"
+  ],
+  "aliases": [
+   "voir",
+   "VOIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je peux te voir à 2:30.",
+    "en": "I can see you at 2:30.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Je vais voir ce que je peux faire.",
+    "en": "I will see what I can do.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 190
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 4
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 3
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 50
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 101
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 143
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 189
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 250
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 266
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 328
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 329
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 380
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 484
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 485
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 486
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 487
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 488
+   }
+  ],
+  "conjugation_refs": [
+   "voir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "vwaʁ",
+  "respelling": "VWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-ebed78396a12f2b4",
+  "fr": "vouloir",
+  "en": "to want; to want, to wish",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to want",
+   "to want, to wish"
+  ],
+  "aliases": [
+   "vouloir",
+   "VOULOIR"
+  ],
+  "examples": [
+   {
+    "fr": "Je sais ce que je veux faire.",
+    "en": "I know what I want to do.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Ne voulez-vous pas savoir qui est cet homme ?",
+    "en": "Don't you want to know who this man is?",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 227
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 70
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 30
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 77
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 113
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 152
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 196
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 244
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 263
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 277
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 310
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 362
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 619
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 620
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 621
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 622
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 623
+   }
+  ],
+  "conjugation_refs": [
+   "vouloir:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "vulwaʁ",
+  "respelling": "voo-LWAHR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-f3fc2f5ce6a0ad78",
+  "fr": "écrire",
+  "en": "to write",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to write"
+  ],
+  "aliases": [
+   "écrire",
+   "ÉCRIRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je vais écrire une lettre.",
+    "en": "I will write a letter.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Elle a oublié de lui écrire.",
+    "en": "She forgot to write to him.",
+    "source": "Anki example field"
+   },
+   {
+    "fr": "Donne-moi quelque chose sur quoi écrire.",
+    "en": "Give me something to write about.",
+    "source": "Anki example field"
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 1305
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 87
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 26
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 73
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 128
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 155
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 221
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 330
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 376
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 392
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 393
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 454
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 599
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 600
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 601
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 602
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 603
+   }
+  ],
+  "conjugation_refs": [
+   "écrire:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ekʁiʁ",
+  "respelling": "ay-KREER",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ },
+ {
+  "id": "verb-e927fa95cb072121",
+  "fr": "être",
+  "en": "to be",
+  "pos": "verb",
+  "category": "Verbs",
+  "categories": [
+   "Verbs"
+  ],
+  "meanings": [
+   "to be"
+  ],
+  "aliases": [
+   "être",
+   "ÊTRE"
+  ],
+  "examples": [
+   {
+    "fr": "Je préférerais être un oiseau plutôt qu'un poisson.",
+    "en": "I'd rather be a bird than a fish.",
+    "kind": "tatoeba",
+    "source": "Tatoeba via OPUS",
+    "level_target": null,
+    "corpus_line": 1469,
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution": {
+     "fra": {
+      "id": "4360",
+      "author": "TRANG",
+      "url": "https://tatoeba.org/en/sentences/show/4360"
+     },
+     "eng": {
+      "id": "2474",
+      "author": "fcbond",
+      "url": "https://tatoeba.org/en/sentences/show/2474"
+     }
+    }
+   }
+  ],
+  "source_entries": [
+   {
+    "file": "topic_vocab.json",
+    "index": 296
+   },
+   {
+    "file": "anki_verb_sources.json",
+    "index": 1
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 0
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 47
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 96
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 193
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 235
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 240
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 245
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 248
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 262
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 469
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 470
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 471
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 472
+   },
+   {
+    "file": "anki_verb_sources.json:tables",
+    "index": 473
+   }
+  ],
+  "conjugation_refs": [
+   "être:voix_active_avoir"
+  ],
+  "conjugation_scope": "verb",
+  "levels": [
+   "A1-A2"
+  ],
+  "example_status": "bilingual examples available",
+  "pronunciation_ipa": "ɛtʁ",
+  "respelling": "EHTR",
+  "respelling_source": "Lexique383/english-hint-v2",
+  "pronunciation_status": "approximate English hint; audio recommended"
+ }
+]

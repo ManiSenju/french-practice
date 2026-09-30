@@ -1,0 +1,52 @@
+# JavaScript dependencies and generated app data/builds
+node_modules/
+/dist/
+/public/data/
+*.tsbuildinfo
+.vite/
+
+# Test output and coverage
+/playwright-report/
+/test-results/
+coverage/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local Python environments and caches
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.ruff_cache/
+
+# Local environment settings (keep shareable templates)
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Logs and editor/OS temporary files
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Vocabulary JSON/text, PDFs, Anki decks, source code, and lockfiles
+# are intentionally kept trackable.
+
+# Temporary extraction directories created by the Anki importer
+/vocab/_apkg*/
+
+# Keep source archives/reference material local; publish only runtime datasets.
+/vocab/*
+!/vocab/topic_vocab.json
+!/vocab/verbs_vocab.json
+!/vocab/verbs_conjugations_full.json
+!/vocab/vocabulary_examples.json
