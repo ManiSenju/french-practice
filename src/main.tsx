@@ -891,8 +891,8 @@ function App() {
               <table>
                 <thead>
                   <tr>
+                    <th scope="col">English</th>
                     <th scope="col">French</th>
-                    <th scope="col">Meaning</th>
                     <th scope="col">Type / level</th>
                     <th scope="col">Examples</th>
                     <th scope="col">
@@ -904,6 +904,7 @@ function App() {
                   {filtered.slice(page * 30, (page + 1) * 30).map((w) => (
                     <React.Fragment key={w.id}>
                       <tr>
+                        <td lang="en">{w.en}</td>
                         <td>
                           <button
                             className="word-button"
@@ -923,7 +924,6 @@ function App() {
                             ♫
                           </button>
                         </td>
-                        <td>{w.en}</td>
                         <td>
                           <span className="type">{w.pos}</span>
                           <small>
