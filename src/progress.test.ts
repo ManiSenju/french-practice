@@ -29,3 +29,54 @@ it("rejects invalid backups without accepting unknown word IDs", () => {
     ),
   ).toHaveProperty("version", 1);
 });
+
+for (const size of [50, 100]) {
+  for (const mode of ["read", "typing", "quiz"]) {
+    it(`restores a ${size}-card ${mode} session`, () => {
+      const cardIds = Array.from({ length: size }, (_, i) => `word-${i}`);
+      const session = {
+        mode,
+        size,
+        cardIds,
+        index: size - 1,
+        attempts: [],
+        theme: "Education",
+        level: "All levels",
+        search: "",
+        tense: "",
+        answer: "",
+        flipped: false,
+        assisted: false,
+        finished: false,
+        reviewOnly: false,
+        result: null,
+        questions:
+          mode === "quiz"
+            ? cardIds.map((wordId) => ({
+                wordId,
+                id: wordId,
+                prompt: "Question",
+                direction: "French → English",
+                answer: "a",
+                audio: "mot",
+                options: ["a", "b", "c", "d"],
+              }))
+            : [],
+      };
+      const backup = { version: 1, history: [], difficult: [], session };
+      expect(validateBackup(backup, new Set(cardIds)).session).toEqual(session);
+      expect(() =>
+        validateBackup(
+          {
+            ...backup,
+            session: {
+              ...session,
+              cardIds: [...cardIds, ...cardIds, "word-0"],
+            },
+          },
+          new Set(cardIds),
+        ),
+      ).toThrow();
+    });
+  }
+}

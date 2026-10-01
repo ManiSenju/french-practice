@@ -1031,7 +1031,7 @@ function App() {
                     reset();
                   }}
                 >
-                  {[10, 20, 30].map((n) => (
+                  {[10, 20, 30, 50, 100].map((n) => (
                     <option key={n} value={n}>
                       {n} cards
                     </option>

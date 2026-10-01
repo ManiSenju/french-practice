@@ -53,7 +53,7 @@ export function validateBackup(raw: unknown, known: Set<string>): Backup {
       !["read", "typing", "quiz"].includes(String(s.mode)) ||
       !strings(s.cardIds) ||
       !s.cardIds.length ||
-      s.cardIds.length > 30 ||
+      s.cardIds.length > 100 ||
       s.cardIds.some((id) => !known.has(id)) ||
       !Number.isInteger(s.index) ||
       Number(s.index) < 0 ||
@@ -67,7 +67,7 @@ export function validateBackup(raw: unknown, known: Set<string>): Backup {
       !["flipped", "assisted", "finished", "reviewOnly"].every(
         (k) => typeof s[k] === "boolean",
       ) ||
-      ![10, 20, 30].includes(Number(s.size))
+      ![10, 20, 30, 50, 100].includes(Number(s.size))
     )
       throw Error("Invalid saved session.");
     if (
