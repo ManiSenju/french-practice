@@ -3,6 +3,7 @@ import { createRoot } from "react-dom/client";
 import type { Word, Conjugations, Question, Attempt } from "./types";
 import {
   normalize,
+  studyLevel,
   shuffle,
   checkAnswer,
   vocabularyQuiz,
@@ -171,7 +172,7 @@ function App() {
     });
     setMode(saved.mode);
     setTheme(saved.theme);
-    setLevel(saved.level);
+    setLevel(studyLevel(saved.level));
     setSearch(saved.search);
     setSize(saved.size);
     setTense(saved.tense);
@@ -369,9 +370,7 @@ function App() {
           w.categories.includes(theme)) &&
         (level === "All levels" ||
           [w.level, ...(w.levels || [])].some(
-            (l) =>
-              l === level ||
-              (l === "A1-A2" && (level === "A1" || level === "A2")),
+            (l) => l !== undefined && studyLevel(l) === level,
           )) &&
         (!search || normalize(w.fr + " " + w.en).includes(normalize(search))),
     );
@@ -552,7 +551,9 @@ function App() {
           <span>{w.pos}</span>
           {w.gender && <span>{w.gender}</span>}
           <span>
-            {w.level || w.levels?.join(" / ") || "Level not assigned"}
+            {(w.level
+              ? studyLevel(w.level)
+              : w.levels?.map(studyLevel).join(" / ")) || "Level not assigned"}
           </span>
         </div>
         {w.gender_note && <p>{w.gender_note}</p>}
@@ -851,7 +852,7 @@ function App() {
                 reset();
               }}
             >
-              {["All levels", "A1", "A2", "A1-A2", "B1", "B2"].map((l) => (
+              {["All levels", "A1", "A2", "B1", "B2"].map((l) => (
                 <option key={l}>{l}</option>
               ))}
             </select>
@@ -927,7 +928,9 @@ function App() {
                         <td>
                           <span className="type">{w.pos}</span>
                           <small>
-                            {w.level || w.levels?.join(", ") || "—"}
+                            {(w.level
+                              ? studyLevel(w.level)
+                              : w.levels?.map(studyLevel).join(", ")) || "—"}
                           </small>
                         </td>
                         <td>

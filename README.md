@@ -112,3 +112,7 @@ Pronunciation generation also requires eSpeak NG. Historical PDF import uses
 The public repository includes only the four datasets required by the app build.
 Original PDFs, Anki decks, and other reference inputs remain local in `vocab/`;
 Python dataset rebuilding requires those local inputs.
+
+Level filters group the Yohan `A1-A2` course entries under **A1** only.
+Original course-band metadata remains in the source datasets; this grouping
+is a study preference, not a new CEFR assessment.

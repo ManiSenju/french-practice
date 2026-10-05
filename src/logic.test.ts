@@ -1,6 +1,12 @@
 import { describe, it, expect } from "vitest";
 import { readFileSync } from "node:fs";
-import { checkAnswer, vocabularyQuiz, verbQuiz, normalize } from "./logic";
+import {
+  checkAnswer,
+  vocabularyQuiz,
+  verbQuiz,
+  normalize,
+  studyLevel,
+} from "./logic";
 import type { Word, Conjugations } from "./types";
 const data = JSON.parse(
   readFileSync(
@@ -153,4 +159,10 @@ describe("complete bilingual example coverage", () => {
       }
     }
   });
+});
+
+it("groups the combined course band under A1 only", () => {
+  expect(studyLevel("A1-A2")).toBe("A1");
+  expect(studyLevel("A2")).toBe("A2");
+  expect(studyLevel("All levels")).toBe("All levels");
 });

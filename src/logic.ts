@@ -197,3 +197,6 @@ export function verbQuiz(
   }
   return result;
 }
+
+// Course-band entries are grouped under A1 for study; source metadata stays intact.
+export const studyLevel = (level: string) => (level === "A1-A2" ? "A1" : level);
